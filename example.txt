@@ -1,2 +1,4 @@
 This is example..
 karishma
+
+create an avtar for user
